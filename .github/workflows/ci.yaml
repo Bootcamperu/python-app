@@ -2,8 +2,6 @@ name: ci-listo
 
 on:
   push:
-    paths:
-      - 'src/**'
     branches:
       - main
 
