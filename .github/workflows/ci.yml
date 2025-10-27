@@ -1,4 +1,4 @@
-name: ci
+name: ci-2025
 
 on:
   push:
