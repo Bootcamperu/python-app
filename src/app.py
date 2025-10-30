@@ -21,6 +21,7 @@ def healthz():
        ahora = datetime.now()
        return jsonify({
         "status": "up",
+        "name": "juliocarranza",
          "fecha": ahora.strftime("%Y-%m-%d"),
 
     })
